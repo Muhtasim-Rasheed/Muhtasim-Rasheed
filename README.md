@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Muhtasim-Rasheed
-- 👀 I’m interested in making my own OS
-- 🌱 I’m currently learning js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me:
--    Email: build.stonehenge@gmail.com
--    Phone: +880 1715111452
+random guy just making some repos
+
+search for me on youtube: "Mutasimos"
 
 <!---
 Muhtasim-Rasheed/Muhtasim-Rasheed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
