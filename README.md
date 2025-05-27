@@ -1,6 +1,4 @@
-random guy just making some repos
-
-search for me on youtube: "Mutasimos"
+hai :D
 
 <!---
 Muhtasim-Rasheed/Muhtasim-Rasheed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
